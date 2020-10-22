@@ -17,3 +17,9 @@ Overall, manufacturing meets design specifications, because our variance of 76ps
 ![](lot_sum.PNG)
 
 When grouped by lot, Lots 1 and 2 pass specifications with variances of 1psi and 10psi respectively. However, Lot 3 fails at variance 220psi.
+
+## T-Tests on Suspension Coils
+
+![](ttest.PNG)
+
+All suspension coil PSI were not statistically different from the population mean. Each individual lot also was not statistically different from population mean.
