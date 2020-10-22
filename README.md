@@ -23,3 +23,9 @@ When grouped by lot, Lots 1 and 2 pass specifications with variances of 1psi and
 ![](ttest.PNG)
 
 All suspension coil PSI were not statistically different from the population mean. Each individual lot also was not statistically different from population mean.
+
+## Study Design: MechaCar vs Competition
+For our Mechacar study we will be studing horsepower and fuel-efficiency.
+Our alternative hypothesis is that our cars are statistically better in these fields.
+We will run t-tests on these statistics in order to compare against average car competition.
+We could either have a full data set and run a two set t test, or if we are only able to get population average, we can run a one sample t test.
